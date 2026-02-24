@@ -1,1 +1,1 @@
-# bit-back
+Este es el repositorio para crear el proyecto de bit con nodejs
